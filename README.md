@@ -31,5 +31,3 @@ The best results were achieved using a `StackingRegressor` with:
 
 - **R² Score**: 0.88
 - **Mean Absolute Error (MAE)**: 0.16
-
-## Setup and Installation
